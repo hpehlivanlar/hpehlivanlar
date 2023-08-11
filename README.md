@@ -1,9 +1,7 @@
 # 💫 About Me:
-
 I am doing various works on Azure, ASP Blazor , .NET CORE 7.0.
-
+So far for now ;)
 <br> 
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hpehlivanlar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pehlivan__hasan) 
