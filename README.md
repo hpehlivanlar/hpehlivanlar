@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am doing various works on Azure, ASP Blazor , .NET CORE 7.0
+I am doing various works on Azure CLOUD, ASP Blazor , .NET 8 for CRM-PORTAL
 <br> 
 So far for now ;)
 
