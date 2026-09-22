@@ -1,4 +1,4 @@
-# 💫 About Me: I am doing various works on AI ,Azure CLOUD, ASP Blazor , .NET 8 for CRM-PORTAL <br/>  So far for now ;)  
+# 💫 About Me: I am doing various works on AI ,Azure CLOUD, ASP Blazor , .NET 8 for CRM-PORTAL , Swift and IOS developer<br/>  So far for now ;)  
 
 ## 🌐 Socials:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hpehlivanlar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/h_pehlivanlar/)  
 
